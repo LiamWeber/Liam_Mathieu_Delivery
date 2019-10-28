@@ -20,6 +20,7 @@ namespace ConsoleApp
             foreach (var city in cities)
             {
                 Console.WriteLine(city.ToString());
+                Console.WriteLine("Tip top");
             }
             /*
             //Add City
